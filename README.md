@@ -11,7 +11,7 @@ I'm a computer science major at UCSD who's always willing to learn and work with
 - &nbsp; My favorite programming language is Python, but I'm also proficient with web development, particularly React.js.
 - &nbsp; Many of my projects are available here on Github! Scroll down to see some of the ones I'm the most proud of.
 - &nbsp; Fun fact: typing `import this` in Python will print a fun poem about the zen of Python.
-- &nbsp; Check out my resume [here]().
+- &nbsp; Check out my resume [here](https://www.linkedin.com/in/thuan-do-ucsd/details/experience/).
 
 ### Languages and Tools:
 
